@@ -30,7 +30,7 @@
   <a href="https://github.com/rodolfo0259"> 
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='45'> 
   </a>
-  <a href="https://www.linkedin.com/in/rodolfo-baldin-113b661a0"> 
+  <a href="https://www.linkedin.com/in/rodolfo-contieri-113b661a0"> 
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'> 
   </a>
 </p>
