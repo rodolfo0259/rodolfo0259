@@ -10,6 +10,11 @@
 
 <br>
 
+<h3 align="center">
+![Codewars](https://www.codewars.com/users/rodolfo0259/badges/micro)
+</h3>
+
+
 <h2 align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,6 +38,11 @@
   <a href="https://www.linkedin.com/in/rodolfo-contieri-113b661a0"> 
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'> 
   </a>
+  <!--
+  <a href="https://www.codewars.com/users/rodolfo0259">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt='codewars' height='45'>
+  </a>
+-->
 </p>
 
 
