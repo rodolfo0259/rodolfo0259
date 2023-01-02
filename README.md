@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/rodolfo0259">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo0259&layout=compact&langs_count=7&theme=react" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo0259&layout=compact&langs_count=7&theme=react" height="180em"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfo0259&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </div>
@@ -11,7 +11,10 @@
 <br>
 
 <h3 align="center">
-![Codewars](https://www.codewars.com/users/rodolfo0259/badges/micro)
+
+  <a href="https://www.codewars.com/users/rodolfo0259">
+    <img src="https://www.codewars.com/users/rodolfo0259/badges/micro" alt='codewars' height='30'>
+  </a>
 </h3>
 
 
