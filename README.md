@@ -1,12 +1,31 @@
 <h2 align="center"> Hello there, I am Rodolfo 👋 </h2>
 
+<table align="center" cellpadding="0">
+  <tr>
+    <!-- Quadrante 1 & 4 -->
+    <td rowspan="2" align="center">
+      <a href="https://roadmap.sh">
+        <img src="https://roadmap.sh/card/tall/67584132ecc889bb0db96c28?variant=dark&roadmaps=ai-data-scientist" alt="roadmap.sh"/>
+      </a>
+    </td>
+    <!-- Quadrante 2 -->
+    <td align="center">
+      <a href="https://github.com/rodolfo0259">
+        <img src="https://github-readme-stats.vercel.app/api?username=rodolfo0259&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Quadrante 3 -->
+    <td align="left">
+      <a href="https://github.com/rodolfo0259">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo0259&layout=compact&langs_count=4&theme=react" alt="Top Languages" height="160em"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<a href="https://github.com/rodolfo0259">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo0259&layout=compact&langs_count=7&theme=react" height="180em"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfo0259&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</a>
-</div>
+
 
 <br>
 
@@ -49,8 +68,6 @@
   </a>
 -->
 </p>
-
-
 
 
 
